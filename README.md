@@ -79,5 +79,3 @@ Bachelor of Computer Engineering (Bilingual) + Diploma in AI Applied to Robotics
 - 📧 [jocraha@gmail.com](mailto:jocraha@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaime-ordov%C3%A1s-curbera-47089b22b/)
 - 💻 [GitHub](https://github.com/jaime-ordovas-curbera)
-
-![Snake animation](https://github.com/jaime-ordovas-curbera/jaime-ordovas-curbera/blob/output/github-contribution-grid-snake.svg)
